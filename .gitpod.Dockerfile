@@ -4,7 +4,7 @@ FROM gitpod/workspace-full
 
 USER gitpod
 
-# RUN mkdir /tmp/ && 
+# WORKDIR /workspace
 
 
 
